@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wmzy/docker-image-downloader/issues"
   },
-  "homepage": "https://github.com/wmzy/docker-image-downloader#readme"
+  "homepage": "https://github.com/wmzy/docker-image-downloader#readme",
+  "dependencies": {
+    "docker-registry-client": "^3.3.0"
+  }
 }
