@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/wmzy/docker-image-downloader#readme",
   "dependencies": {
-    "docker-registry-client": "^3.3.0"
+    "commander": "^2.14.1",
+    "docker-registry-client": "^3.3.0",
+    "fs-write-stream-atomic": "^1.0.10",
+    "lodash": "^4.17.5",
+    "make-dir": "^1.2.0",
+    "p-queue": "^2.4.0",
+    "tar-stream": "^1.5.5"
   }
 }
